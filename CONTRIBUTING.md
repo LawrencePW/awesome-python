@@ -20,3 +20,5 @@ Your contributions are always welcome!
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
 
 Bitte sende eine Email an: lieblings_kollege@firma.com
+
+Eine weitere Info! Von einem anderen Rechner
